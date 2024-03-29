@@ -1,0 +1,143 @@
+Hello|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi hello|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi |Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hey|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hello, hi|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hey|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hey, hi|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hey, hello|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+Good morning|Morning|Good Morning. I am Dexter. I will serve your leave enquiries.
+Good afternoon|Afternoon|Good afternoon. I am Dexter. I will serve your leave enquiries.
+Good evening|Evening|Good evening. I am Dexter. I will serve your leave enquiries.
+Good night|Goodbye|Good night. Take care.
+How are you today?|Opening|I'm fine! Thank you. How can I help you?
+want help|Help|How can I help you?
+need help|Help|How can I help you?
+help me|Help|How can I help you?
+I don't want your help.|No-Help|Ok sir/madam. No problem. Have a nice day.
+I don't want your assistance|No-Help|Ok sir/madam. No problem. Have a nice day.
+No help required|No-Help|Ok sir/madam. No problem. Have a nice day.
+It has been great talking to you.|Closing|It's glad to know that I have been helpful. Have a good day!
+great|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you for your help|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you very much|Closing|It's glad to know that I have been helpful. Have a good day!
+thanks.|Closing|You're welcome!It's glad to know that I have been helpful. Have a good day!
+thanks very much|Closing|It's glad to know that I have been helpful. Have a good day!
+How many types of leaves are there?|Leaves-Type|Currently I know about two: annual and optional leaves.
+types of leaves?|Leaves-Type|Currently I know about two: annual and optional leaves.
+type leaves?|Leaves-Type|Currently I know about two: annual and optional leaves.
+leave type?|Leaves-Type|Currently I know about two: annual and optional leaves.
+leaves type?|Leaves-Type|Currently I know about two: annual and optional leaves.
+How many leaves have I taken?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+How many leaves I have already taken?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+how many annual leaves I took?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+How many annual leaves have I taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+How many annual leaves I have already taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+Tell me the annual leaves count I have taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+How many annual leaves have I taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+number of annual leaves taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+annual leaves taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+number of annual leaves already taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+annual leaves taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+annual leaves already taken?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+Tell me number of annual leaves I have taken|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+number of annual leaves used?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+my taken annual leaves|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+annual leaves used?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+How many optional leaves have I taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+How many optional leaves I took|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+optional leaves taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+number of optional leaves I have taken?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me the optional leaves count I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me number of optional leaves I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+can you tell me number of optional leaves I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+please tell me number of optional leaves I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+How many optional leaves have I taken?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+number of optional leaves taken?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+number of optional leaves already taken?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+optional leaves taken?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+optional leaves already taken?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+please tell me number of optional leaves I have used.|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+please tell me number of optional leaves I have used|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me the optional leaves count I have used.|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me the optional leaves count I have used|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+the optional leaves count I have used|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+the optional leaves count I have used?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me the optional leaves count I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me the optional leaves count I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+tell me the optional leaves count I have taken|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+How many optional leaves have I used|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+How many optional leaves have I used?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+number of optional leaves used?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+optional leaves used?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+How many leaves do I have?|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+How many leaves can I take?|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+How many leaves are remaining?|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+remaining leaves.|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+What are my leaves?|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+Tell me my leave balance.|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+my remaining leaves.|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+leave balance.|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+leaves pending.|Default-Balance-Annual-Leaves|You have 25 annual leaves left.
+tell me the annual leaves count I have remaining|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+How many annual leaves do I have?|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+What are my annual leaves?|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+What is my annual leave balance?|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+Tell me my annual leaves.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+How many annual leaves are remaining?|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+Tell me my annual leaves remaining|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+remaining annual leaves.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+annual leaves remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+number of annual leaves remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+number of annual leaves I have?|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+annual leaves remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+Please tell me the annual leaves count I have remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+Tell me the annual leaves count I have remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+the annual leaves count I have remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+my annual leaves count remaining.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+Tell me my annual leave balance.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+annual leave balance.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+annual leaves.|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+can you tell me number of annual leaves I have remaining|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+please tell me number of annual leaves I have remaining|Balance-Annual-Leaves|You have 25 annual leaves remaining.
+How many optional leaves are remaining?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+optional leaves remaining?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+number of optional leaves I have remaining?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+How many optional leaves do I have?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+How many optional leaves do I have|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+Tell me my optional leave balance?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+Tell me my optional leaves left?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+How many optional leaves can I take?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+optional leaves take?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+How many optional leaves I have?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+Tell me my optional leave balance.|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+tell me the optional leaves count I have remaining|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+optional leaves.|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+optional leaves?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+optional leave balance|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+optional|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+Tell me the optional leaves count I have remaining.|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+the optional leaves count I have remaining?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+my optional leaves count remaining.|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+please tell me number of optional leaves I have remaining|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+please tell me number of optional leaves I have remaining.|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+number of optional leaves I have remaining.|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+number of optional leaves I have|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+number of optional leaves?|Balance-Optional-Leaves|You have 2 optional leaves remaining.
+How many carry forward leaves do I have?|CF|You have 30 carry forward leaves.
+number of carry forward leaves I have?|CF|You have 30 carry forward leaves.
+tell me the carry forward leaves count I have|CF|You have 30 carry forward leaves.
+tell me number of carry forward leaves I have|CF|You have 30 carry forward leaves.
+can you tell me number of carry forward leaves I have|CF|You have 30 carry forward leaves.
+please tell me number of carry forward leaves I have|CF|You have 30 carry forward leaves.
+How many carry forwards do I have from previous year?|CF|You have 30 carry forward leaves.
+Tell me my carry forward leaves from previous year|CF|You have 30 carry forward leaves.
+Tell me my carry forward leaves|CF|You have 30 carry forward leaves.
+Tell me carry forward leaves|CF|You have 30 carry forward leaves.
+carry forward leaves|CF|You have 30 carry forward leaves.
+carry forward leave|CF|You have 30 carry forward leaves.
+carry forward|CF|You have 30 carry forward leaves.
+previous year carry forward leaves|CF|You have 30 carry forward leaves.
